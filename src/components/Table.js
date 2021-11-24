@@ -1,5 +1,4 @@
-import { useEffect } from "react";
-import { useState } from "react/cjs/react.development";
+import { useEffect,useState } from "react";
 
 const Table = (props) =>{
     const [input,setInput]=useState([])
